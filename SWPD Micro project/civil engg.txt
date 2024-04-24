@@ -1,0 +1,96 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"content="width-device-width, initial-scale=1,0">
+    <title>Civil Engg.</title>
+<style>
+    .paragraph-spacing {
+           margin-bottom: 25px;
+ }
+</style>
+<style>
+    .center {
+           text-align: center;
+}
+</style>
+<style>
+  body {
+      background-color:Black;
+}
+</style>
+</head>
+<body>
+  <h1 div class="center"style="color:Red;"> CIVIL ENGINEERING </h1>
+  <h2 div class="center"style="color:salmon;"> Program Details</h2>
+<p div class="center"style="color:Yellow;">The Department of Civil Engineering of this Institute started in 1959 with this Polytechnic with an intake capacity of 30 students which has been increased
+   to 180.
+<p div class="center" class="paragraph-spacing"style="color:Yellow;"> PROGRAM OFFERS 3 YEARS DIPLOMA COURSE ON SEMESTER BASED PATTERN.
+<p div class="center" class="paragraph-spacing"><style="color:salmon;">TEACHING METHODOLOGY:<style="color:Yellow;" The program Combines classroom teaching theory session and practical training on application level during
+    practical session.
+<p div class="center" class="paragraph-spacing"style="color:Yellow;">AWARD OF DEGREE: Diploma in Civil Engineering will be awarded by Gujarat Technological University on sucessful completion of 3 years
+   program.
+<p div class="center" class="paragraph-spacing"style="color:salmon;"><u>VISION:</u>
+<p div class="center" class="paragraph-spacing"style="color:Yellow;">To promote competent human resourse by providing quality and latest technical education for fulfilling changing societal needs in 
+    the area of Civil Engineering.
+<p div class="center" class="paragraph-spacing"style="color:salmon;"><u>MISSION:</u>
+<p div class="center" class="paragraph-spacing"style="color:Yellow;">1) To promote quality education as per industrial and social needs.
+<p div class="center" class="paragraph-spacing"style="color:Yellow;">2) To provide knowledge of various Civil Engineering aspects and skills based practices.
+<p div class="center" class="paragraph-spacing"style="color:Yellow;">3) To make students aware of latest development in the field and make them sustain against challenges by inculcating technical 
+   competence as well as ethical values.
+<p div class="center" class="paragraph-spacing"style="color:Yellow;">4) To motivate students to be entrepreneurs.</p>
+ <h2 div class="center"style="color:salmon;"> FACULTY </h2>
+    <div class="center">
+    <!-- Photo -->
+<a href="file:///C:/Users/MUSYAFA/Documents/practical%204/SWPD%20Micro%20project/faculty%205%20info.html"><img src="20160203_100118-1.jpg" width="200" height="200"></a>
+<!-- Name -->
+<p style="color:GreenYellow;"> Mr. SOYAB ALI BOHRA</p>
+<!-- Photo -->
+<a href="file:///C:/Users/MUSYAFA/Documents/practical%204/SWPD%20Micro%20project/faculty%206%20info.html"><img src="IMG_20180713_135454.jpg" width="200" height="200"></a>
+<!-- Name -->
+<p style="color:GreenYellow;"> Mr. YUSUFI CHALLAWALA</p>
+<!-- Photo -->
+<a href="file:///C:/Users/MUSYAFA/Documents/practical%204/SWPD%20Micro%20project/faculty%207%20info.html"><img src="Untitled6.png" width="200" height="200"></a>
+<!-- Name -->
+<p style="color:GreenYellow;"> Ms. FATEMA LANEWALA </p>
+<!-- Photo -->
+<a href="file:///C:/Users/MUSYAFA/Documents/practical%204/SWPD%20Micro%20project/faculty%208%20info.html"><img src="new_pic.jpg" width="200" height="200"></a>
+<!-- Name -->
+<p style="color:GreenYellow;"> Ms.SIDDHI SHETH </p>
+<!-- Photo -->
+<a href="file:///C:/Users/MUSYAFA/Documents/practical%204/SWPD%20Micro%20project/faculty%209%20info.html"><img src="GPSC3.jpg" width="200" height="200"></a>
+<!-- Name -->
+<p style="color:GreenYellow;"> Mr. DEEPAK KANDPAL </p>
+<!-- Photo -->
+<a href="file:///C:/Users/MUSYAFA/Documents/practical%204/SWPD%20Micro%20project/faculty%2010%20info.html"><img src="Image-03.jpeg" width="200" height="200"></a>
+<!-- Name -->
+<p style="color:GreenYellow;"> Mr. HARDIKKUMAR BHARPODA </p>
+<!-- Photo -->
+<a href="file:///C:/Users/MUSYAFA/Documents/practical%204/SWPD%20Micro%20project/faculty%2011%20info.html"><img src="amit_vahoniya.jpeg" width="200" height="200"></a>
+<!-- Name -->
+<p style="color:GreenYellow;"> Mr. AMITKUMAR VAHONIYA </p>
+<!-- Photo -->
+<a href="file:///C:/Users/MUSYAFA/Documents/practical%204/SWPD%20Micro%20project/faculty%2012%20info.html"><img src="vkb_photo.jpg" width="200" height="200"></a>
+<!-- Name -->
+<p style="color:GreenYellow;"> Mr. VIKRAMSINGH BHABHOR  </p>
+<h2 div class="center"style="color:salmon;"> LABS </h2>
+<div class="center">
+    <!-- Photo -->
+<img src="1712992002159.JPG" alt= Photo" width="500" height="250">
+<h3 style="color:GreenYellow;">COMPUTER LAB</h3>
+<p style="color:Yellow;">This Laboratory is useful to understand the basic<br>
+ programs such as CAD and CAG to students for enhancing their<br>
+skills in drawing.</p>
+<img src="1712992002155.JPG" alt= Photo" width="500" height="250">
+<h3 style="color:GreenYellow;">PHE LAB</h3>
+<p style="color:Yellow;">This Laboratory is useful to understand the basic<br>
+  tests conducted on water such as PH value, Alkalinity, BOD and<br>
+ COD test as well as helpful for various test conducted on<br>
+ Basic Transportation Engineering to determine properties of Bitumen.</p>
+<img src="1712992002162.JPG" alt= Photo" width="500" height="250">
+<h3 style="color:GreenYellow;">SURVEYING LAB</h3>
+<p style="color:Yellow;">This Laboratory is useful to understand the various<br>
+   practicals in suvey and advanced survey lab as chain surveying,<br>
+   Tacheometric survey, Plane table survey, GPS etc.</p>
+</div>
+</body>
+</html>

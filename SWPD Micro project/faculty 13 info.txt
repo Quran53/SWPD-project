@@ -1,0 +1,85 @@
+<html>
+<head>
+<style>
+    .center {
+           text-align: center;
+}
+</style>
+<style>
+    .paragraph-spacing {
+           margin-bottom: 25px;
+ }
+</style>
+<style>
+  body {
+      background-color:Black;
+}
+</style>
+</head>
+<body>
+<h2 div class="center"style="color:Red;"> Faculty Details </h2>
+<div class="center">
+    <!-- Photo -->
+<img src="2016-09-20_13_26_00.jpg" alt= Photo" width="200" height="200">
+<!-- Name -->
+<p style="color:GreenYellow;"> MRS. REKHABEN DAVE </p>
+<h4 style="color:cyan;">Personal Details</h4>
+<p style="color:LightSkyBlue;" >  DESIGNATION      : Lecturer<br>
+   QUALIFICATION    : M.A.Home Science, B.ED.<br>
+   EXPERIENCE       : 32 Years<br>
+   AREA OF INTEREST : Embroidery & Craft</p> 
+<h4 style="color:cyan;">Educational Qualification</h4>
+<p style="color:LightSkyBlue;">B.Sc(Home Science<br>
+   B.ED(Home Science)<br>
+   M.A(Home Science)<br>
+   (SAURASHTRA UNIVERSITY)<br>
+  CCC+<br>
+(TEB Gandhinagar)</p>
+<h4 style="color:cyan;">Work Experience</h4>
+<p style="color:LightSkyBlue;">C.U.Shah Polytechnic (11/06/1992 to 28/04/2005)<br>
+   Sir B.P.T.I.Bhavnagar(27/11/2006 to 04/06/2007)<br>
+   C.U.Shah Polytechnic (05/06/2007 to till date)</p>
+<h4 style="color:cyan;">Skills and Knowlegde</h4>
+<p style="color:LightSkyBlue;">Embroidery.<br>
+   Needle Craft.<br>
+   Design Concept.<br>
+   Tie and Dye</p>
+<h4 style="color:cyan;">Course Taught</h4>
+<p style="color:LightSkyBlue;">Design Concept.<br>
+   Textile Science.<br>
+   Indian Embroidery.<br>
+   Needle Craft.<br>
+   Garment Machinery.<br>
+   Indian Textile Embellishment Surface.<br>
+   Apparel Merchandise.</p>
+<h4 style="color:cyan;">Training and Workshop</h4>
+<h5 style="color:cyan;"><u>Training</u></h5>
+<h5 style="color:cyan;"><b>Computer Aided Costumes Designs & Dress Making</b></h5>
+<p style="color:LightSkyBlue;">Textile Technology Dept.<br>
+   L.D.College of Engineering A-BAD.<br>
+   (20/07/1992 to 07/08/1992)</p>
+<h5 style="color:cyan;"><b>CCC+</b></h5>
+<p style="color:LightSkyBlue;">Government Polytechnic for Girls A-BAD.<br>
+  (05/12/2011 to 12/12/2011).</p>
+<h5 style="color:cyan;"><b>Contributor Personality Program & Project Work.</b></h5>
+<p style="color:LightSkyBlue;">C.U.Shah Polytechnic, Surendranagar.<br>
+   (10/12/2012 to 11/12/2012)</p>
+<h5 style="color:cyan;"><b>Karmayogi Residential Training For Quality<br>
+      Improvement Program in Technical Education.</b></h5>
+<p style="color:LightSkyBlue;">Prerana Dham, Junagadh.<br>
+   (27/01/2014 to 29/01/2014)</p>
+<h5 style="color:cyan;"><u>Workshop</u></h5>
+<h5 style="color:cyan;"><b>Hobby Ideas Workshop</b></h5>
+<p style="color:LightSkyBlue;">C.U.Shah Polytechnic, Surendranagar.<br>
+  (21/11/2011 to 24/11/2011)</p>
+<h5 style="color:cyan;"><b>Ramsha Aari & Zardosi Workshop</b><h5>
+<p style="color:LightSkyBlue;">C.U.Shah Polytechnic, Surendranagar.<br>
+   (14/05/2012 to 16/05/2012)</p>
+<h5 style="color:cyan;"><b>Glass Painting & Flower Making</b></h5>
+<p style="color:LightSkyBlue;">C.U.Shah Polytechnic, Surendranagar.<br>
+   (29/09/2016 to 01/10/2016)</p>
+<h4 style="color:cyan;">Portfolios</h4>	
+<p style="color:LightSkyBlue;">Girls Hostel Warden.<br>
+   Student Section.</p>
+</body>
+</html>
